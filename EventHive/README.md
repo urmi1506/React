@@ -12,4 +12,7 @@ Postman
 Git
 
 --Day :02
-create login page 
+create login page & navigate it to home page
+
+--Day :03
+creating reusable components for website
