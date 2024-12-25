@@ -1,0 +1,12 @@
+.nav{
+background-color: black;
+height: 50px;
+width: 100%;
+display: flex;
+color: aliceblue;
+
+}
+.logo img{
+    height: 60px;
+     width: 70%px;
+}
