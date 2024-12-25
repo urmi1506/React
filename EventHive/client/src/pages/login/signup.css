@@ -3,13 +3,14 @@
     flex-direction:column;
     background-color: paleturquoise;
     margin-top: 5%;
-    margin-left: 0%;
+    margin-left: 35%;
     padding-bottom: 3%;
     padding-top: 1%;
     align-items: center;
     border: 1px solid black;
     border-radius: 10px;
-
+    width: 500px;
+    
 }
 .header{
     display: flex;
