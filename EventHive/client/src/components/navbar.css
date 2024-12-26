@@ -4,9 +4,19 @@ height: 50px;
 width: 100%;
 display: flex;
 color: aliceblue;
-
 }
+
 .logo img{
-    height: 60px;
+    height: 70px;
      width: 70%px;
+     
+}
+.pages{
+    padding-left:65%;
+    margin-top: 12px;
+    
+}
+.pages span{
+    
+    padding-left: 25px;
 }
