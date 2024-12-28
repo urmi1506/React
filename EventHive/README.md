@@ -16,3 +16,9 @@ create login page & navigate it to home page
 
 --Day :03
 creating reusable components for website
+
+--Day :04
+creating new more components
+
+--Day :05
+creating an Home Page
