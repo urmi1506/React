@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, {  useState } from 'react'
 import './signup.css'
 import { MdEmail } from "react-icons/md";
 import { RiLockPasswordFill } from "react-icons/ri";
@@ -19,7 +19,7 @@ const Signup = () => {
 
     return (
 
-        <div className='container'>
+        <div className='container1'>
             <div className="header">
                 <div className="text">{action}</div>
                 <div className="underline"></div>

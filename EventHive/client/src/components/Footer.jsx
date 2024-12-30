@@ -3,7 +3,9 @@ import './footer.css'
 const Footer = () => {
   return (
     <div className='main'>
-       Footer
+       <div className="left">
+         <h6>@EventHive</h6>
+       </div>
     </div>
   )
 }
